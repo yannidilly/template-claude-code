@@ -1,0 +1,8 @@
+# Ambiente (a spec de bootstrap de configuração geral completa este arquivo para a stack)
+.env
+.env.*
+!.env.example
+
+# Sistema e editores
+.DS_Store
+*.log

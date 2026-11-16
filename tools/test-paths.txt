@@ -1,0 +1,4 @@
+# Globs de teste protegidos: fonte única lida por tools/gate-tests.sh,
+# tools/hooks/protect-tests.sh e pela configuração de lint.
+# Um glob de pathspec do git por linha (ex.: **/*.test.ts). Linhas começando com # são ignoradas.
+# Preenchido pelo /project-init a partir de docs/project-setup.md (P4.3).
